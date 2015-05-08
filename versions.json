@@ -45,10 +45,6 @@
       "1.0.5"
     ],
     [
-      "mrt:jquery-ui",
-      "1.9.2"
-    ],
-    [
       "observe-sequence",
       "1.0.3"
     ],
